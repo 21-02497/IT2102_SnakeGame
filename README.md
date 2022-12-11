@@ -22,6 +22,17 @@ a random location.
 	- Python 3
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 
+**Running**
+Specify the file path for your .py file in this line:
+
+```python
+def restart(event):
+    window.destroy()
+    os.startfile(r'FilePathHere')
+```
+
+
+
 ## Rules
 1. Snake has to move either forward, left or right.
 2. Snake dies when it hits a wall or itself.

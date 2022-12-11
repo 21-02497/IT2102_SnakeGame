@@ -41,11 +41,9 @@ def restart(event):
 
 ## 💻 Controls
 1. The game begins with snake of length 3.
-2. Keyboard Up, Down, Right, and Left are used to navigate.
+2. Keyboard `Up`, `Down`, `Right`, and `Left` are used to navigate.
 3. The Score of the game is displayed at the top of the game.
-4. Click 'Esc' to quit and Press 'r' to retry after a game over.
-
-## The UMI Diagram
+4. Click `Esc` to quit and Press `r` to retry after a game over.
 
 ## Self Assesment
 
@@ -60,9 +58,8 @@ The group evaluated the system using the provided grading rubric, which resulted
 | Originality        	|  	| ✔  	|   	|   	|
 | Overall Impression 	| ✔   	|   	|   	|   	|
 
-## Video Presentation
 
-## 🧾 Contributros
+## 🧾 Contributors
 | Names            	   | Link	                                                |
 |--------------------------| ---------------------------------------------------------- |
 | Abrahan, John Neldine M. |  [@John-Neldine](https://github.com/21-02497)              |

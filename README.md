@@ -22,6 +22,10 @@ a random location.
 	- Python 3
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 
+## Rules
+1. Snake has to move either forward, left or right.
+2. Snake dies when hits wall or itself.
+3. For every eaten fruit, snake's length increases by 1 and a new fruit is generated on a random unoccupied place.
 
 ## 💻 Controls
 1. The game begins with snake of length 3.

@@ -23,7 +23,11 @@ a random location.
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 
 
-## 💻 How to use the Snake Game Program?
+## 💻 Controls
+1. The game begins with snake of length 3.
+2. Keyboard Up, Down, Right, and Left are used to navigate.
+3. The Score of the game is displayed at the top of the game.
+4. Click 'Esc' to quit and Press 'r' to retry after a game over.
 
 
 

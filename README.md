@@ -12,7 +12,7 @@ the game progresses, it gets increasingly difficult to avoid collisions with the
 The player can change the direction of the head of the snake by using the arrow keys. At
 step in the game, there is always an apple somewhere on the board. If the snake eats an
 apple, the snake becomes one cell longer per step. A new apple is placed on
-a random location.. 
+a random location.
 
 
 ## 🎮 How to Run the Snake Game Program?

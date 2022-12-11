@@ -72,7 +72,7 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 ## YouTube Video Link
 
-![Picsart_22-12-11_22-11-25-459](https://user-images.githubusercontent.com/114321964/206921962-90548865-0419-4103-8643-b5fe17a593bd.jpg)(https://youtu.be/MLVtD6-7tvg)
+#Check out our video presentation [here](https://youtu.be/MLVtD6-7tvg)
 
 
 ## 🧾 Contributors

@@ -72,7 +72,7 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 ## YouTube Video Link
 
-#Check out our video presentation [here](https://youtu.be/MLVtD6-7tvg)
+Check out our video presentation [here](https://youtu.be/MLVtD6-7tvg)
 
 
 ## 🧾 Contributors

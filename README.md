@@ -45,9 +45,6 @@ def restart(event):
 3. The Score of the game is displayed at the top of the game.
 4. Click 'Esc' to quit and Press 'r' to retry after a game over.
 
-## UML Diagram
-hds;lkjf
-
 ## Self Assesment
 
 The group evaluated the system using the provided grading rubric, which resulted in the following:
@@ -64,12 +61,9 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 ## 🧾 Credits
 
-|Abrahan, John Neldine M.|[@John-Neldine](https://github.com/21-02497) |
-  
-|Cueto, Daniel Isaaiah T.|[@Daniel-Isaaiah](https://github.com/DanielIsaaiahCueto) |
-  
-|Platon, Art Cedrick C.|[@Art-Cedrick](https://github.com/Art-Cedrick) |
-  
-|Sanchez, Kim William B.|[@Kim-William](https://github.com/21-05298) |
+| Abrahan, John Neldine M. | [@John-Neldine](https://github.com/21-02497)              |
+| Cueto, Daniel Isaaiah T. | [@Daniel-Isaaiah](https://github.com/DanielIsaaiahCueto)  |  
+| Platon, Art Cedrick C.   | [@Art-Cedrick](https://github.com/Art-Cedrick)            | 
+| Sanchez, Kim William B.  | [@Kim-William](https://github.com/21-05298)               |
 
 

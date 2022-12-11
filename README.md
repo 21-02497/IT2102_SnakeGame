@@ -48,3 +48,7 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 
 ## 🧾 Credits
+
+# Conclusion
+
+The programmers created this system not only to meet the requirement, but also to learn Python programming, which will help us on our path to becoming future system developers. We learned about various OOP principles and their implementation, as well as advanced programming, in this course. With this, we successfully created the "Coffee Shop Management System," which enabled us to explore and discover advanced skills required for the system's completion.

@@ -62,7 +62,7 @@ The group evaluated the system using the provided grading rubric, which resulted
 | Overall Impression 	| ✔   	|   	|   	|   	|
 
 
-## Video Presentation
+
 
 ## 🧾 Contributors
 

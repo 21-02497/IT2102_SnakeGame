@@ -45,6 +45,9 @@ def restart(event):
 3. The Score of the game is displayed at the top of the game.
 4. Click 'Esc' to quit and Press 'r' to retry after a game over.
 
+## UML Diagram
+hds;lkjf
+
 ## Self Assesment
 
 The group evaluated the system using the provided grading rubric, which resulted in the following:

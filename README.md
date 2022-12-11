@@ -60,10 +60,11 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 
 ## 🧾 Credits
-
-| Abrahan, John Neldine M. | [@John-Neldine](https://github.com/21-02497)              |
-| Cueto, Daniel Isaaiah T. | [@Daniel-Isaaiah](https://github.com/DanielIsaaiahCueto)  |  
-| Platon, Art Cedrick C.   | [@Art-Cedrick](https://github.com/Art-Cedrick)            | 
-| Sanchez, Kim William B.  | [@Kim-William](https://github.com/21-05298)               |
+| Names            	   | Link	                                                |
+|--- | --- | ---
+| Abrahan, John Neldine M. |  [@John-Neldine](https://github.com/21-02497)              |
+| Cueto, Daniel Isaaiah T. |  [@Daniel-Isaaiah](https://github.com/DanielIsaaiahCueto)  |  
+| Platon, Art Cedrick C.   |  [@Art-Cedrick](https://github.com/Art-Cedrick)            | 
+| Sanchez, Kim William B.  |  [@Kim-William](https://github.com/21-05298)               |
 
 

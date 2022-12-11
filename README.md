@@ -1,2 +1,9 @@
 # 🐍 Snake Game Program
-A game that was loved by everyone from '90s are now here at the 
+
+
+
+## Project Description
+
+
+
+## How to Run the Snake Game Program?

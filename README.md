@@ -48,6 +48,14 @@ def restart(event):
 
 ## UML Diagram
 
+
+## Concepts Used
+
+* Encapsulation 
+* Inheritance
+
+
+
 ## Self Assesment
 
 The group evaluated the system using the provided grading rubric, which resulted in the following:

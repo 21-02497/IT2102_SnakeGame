@@ -52,7 +52,7 @@ def restart(event):
 ## Concepts Used
 
 * Encapsulation - the concept of bundling data and methods within a single unit, by creating classes we implemented encapsulation
-* Inheritance - allows us to define a class that inherits all the methods and properties from another class. by calling and using different function we implemented inheritance
+* Inheritance - allows us to define a class that inherits all the methods and properties from another class. by calling and using different function we implemented      	         inheritance
 
 
 
@@ -71,6 +71,8 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 
 ## YouTube Video Link
+
+[LUL](https://youtu.be/MLVtD6-7tvg)
 
 ## 🧾 Contributors
 

@@ -1,1 +1,1 @@
-# IT2102_SnakeGame
+# Snake Game Program

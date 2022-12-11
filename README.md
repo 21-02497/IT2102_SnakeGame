@@ -61,6 +61,8 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 ## 🧾 Credits
 
+-IT2102-
+
 -Abrahan, John Neldine M.-
   [@John-Neldine](https://github.com/21-02497)
   

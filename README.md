@@ -41,9 +41,9 @@ def restart(event):
 
 ## 💻 Controls
 1. The game begins with snake of length 3.
-2. Keyboard `Up`, `Down`, `Right`, and `Left` are used to navigate.
+2. Keys `Up`, `Down`, `Right`, and `Left` are used to navigate.
 3. The Score of the game is displayed at the top of the game.
-4. Click `Esc` to quit and Press `r` to retry after a game over.
+4. Click `Esc` to quit and Press `R` to retry after a game over.
 
 ## Self Assesment
 

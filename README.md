@@ -59,7 +59,7 @@ The group evaluated the system using the provided grading rubric, which resulted
 | Overall Impression 	| ✔   	|   	|   	|   	|
 
 
-## 🧾 Credits
+## 🧾 Contributros
 | Names            	   | Link	                                                |
 |--------------------------| ---------------------------------------------------------- |
 | Abrahan, John Neldine M. |  [@John-Neldine](https://github.com/21-02497)              |

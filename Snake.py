@@ -1,7 +1,7 @@
 from ktinker import Label, ALL, Tk, Canvas
 import random
 import sys
-import od
+import os
 
 GAME_WIDTH = 600
 GAME_HEIGHT = 600

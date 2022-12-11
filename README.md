@@ -46,7 +46,7 @@ def restart(event):
 4. Click `Esc` to quit and Press `R` to retry after a game over.
 
 
-
+## UML Diagram
 
 ## Self Assesment
 
@@ -62,7 +62,7 @@ The group evaluated the system using the provided grading rubric, which resulted
 | Overall Impression 	| ✔   	|   	|   	|   	|
 
 
-
+## YouTube Video Link
 
 ## 🧾 Contributors
 

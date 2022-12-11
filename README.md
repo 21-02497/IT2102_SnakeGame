@@ -45,7 +45,7 @@ def restart(event):
 3. The Score of the game is displayed at the top of the game.
 4. Click `Esc` to quit and Press `R` to retry after a game over.
 
-## The UMI Diagram
+## The UML Diagram
 
 ## Self Assesment
 

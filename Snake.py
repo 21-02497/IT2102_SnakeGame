@@ -99,3 +99,36 @@ def change_direction(new_direction):
     elif new_direction == 'down':
         if direction != 'up':
             direction = new_direction
+            
+            
+def check_collisions(snake):
+
+    x, y = snake.coordinates[0]
+
+    if x < 0 or x >= GAME_WIDTH:
+        return True
+    elif y < 0 or y >= GAME_HEIGHT:
+        return True
+
+    for body_part in snake.coordinates[1:]:
+        if x == body_part[0] and y == body_part[1]:
+            return True
+
+    return False
+
+
+def game_over():
+    canvas.delete(ALL)
+    canvas.create_text(canvas.winfo_width()/2, canvas.winfo_height()/3,
+                        font=('consolas',70), text="GAME OVER!", fill="red", tag="gameover")
+    canvas.create_text(canvas.winfo_width()/2, canvas.winfo_height()/2,
+                        font=('consolas',30), text="Press 'r' to Restart", fill="red", tag="gameover")
+    canvas.create_text(canvas.winfo_width()/2, canvas.winfo_height()/1.5,
+                        font=('consolas',30), text="Press ESC to Quit.", fill="red", tag="gameover")
+
+def close(event):
+    sys.exit()
+
+def restart(event):
+    window.destroy()
+    os.startfile(r'C:\Users\Acer\Desktop\2nd-year\Docus\python files\final_proj new\Snake.py')

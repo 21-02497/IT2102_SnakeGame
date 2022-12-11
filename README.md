@@ -11,7 +11,7 @@ it hits something (excluding apples). Because the snake is growing longer and lo
 the game progresses, it gets increasingly difficult to avoid collisions with the snake itself.
 The player can change the direction of the head of the snake by using the arrow keys. At
 step in the game, there is always an apple somewhere on the board. If the snake eats an
-apple, the snake becomes one cell longer per step, for 3 steps. A new apple is placed on
+apple, the snake becomes one cell longer per step. A new apple is placed on
 a random location.. 
 
 

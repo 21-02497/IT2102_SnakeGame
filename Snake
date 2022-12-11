@@ -1,1 +1,4 @@
-
+from ktinker import *
+import random
+import sys
+import od

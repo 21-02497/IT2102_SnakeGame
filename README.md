@@ -46,7 +46,7 @@ def restart(event):
 4. Click `Esc` to quit and Press `R` to retry after a game over.
 
 ## The UML Diagram
-![NationalGeographic_2572187_square](https://user-images.githubusercontent.com/113603567/206917998-924f050e-cf20-4fcc-80d2-dc08dbecc4f8.jpeg)
+
 
 ## Self Assesment
 

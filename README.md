@@ -23,6 +23,7 @@ a random location.
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 
 **Running**
+
 Specify the file path for your .py file in this line:
 
 ```python

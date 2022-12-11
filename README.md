@@ -1,2 +1,2 @@
 # 🐍 Snake Game Program
-lorem ipsum
+  lorem ipsum

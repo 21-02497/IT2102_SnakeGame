@@ -51,10 +51,13 @@ The group evaluated the system using the provided grading rubric, which resulted
 
 -Abrahan, John Neldine M.-
   [@21-02497](https://github.com/21-02497)
+  
 -Cueto, Daniel Isaaiah T.-
   [@DanielIsaaiahCueto](https://github.com/DanielIsaaiahCueto)
+  
 -Platon, Art Cedrick C.-
   [@Art-Cedrick](https://github.com/Art-Cedrick)
+  
 -Sanchez, Kim William B.-
   [@21-05298](https://github.com/21-05298)
 

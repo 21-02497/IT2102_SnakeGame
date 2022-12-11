@@ -2,8 +2,8 @@
 
 
 
-## Project Description
+## 📝 Project Description
 
 
 
-## How to Run the Snake Game Program?
+## 🎮 How to Run the Snake Game Program?

@@ -24,7 +24,7 @@ a random location.
 
 ## Rules
 1. Snake has to move either forward, left or right.
-2. Snake dies when hits wall or itself.
+2. Snake dies when it hits a wall or itself.
 3. For every eaten fruit, snake's length and player's score increases by 1 and a new fruit is generated on a random unoccupied place.
 
 ## 💻 Controls

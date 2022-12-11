@@ -17,6 +17,11 @@ a random location..
 
 ## 🎮 How to Run the Snake Game Program?
 
+**Installing**
+1. To use these exercise files, you must have the following installed:
+	- Python 3
+2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
+
 
 ## 💻 How to use the Snake Game Program?
 

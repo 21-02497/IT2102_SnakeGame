@@ -45,6 +45,8 @@ def restart(event):
 3. The Score of the game is displayed at the top of the game.
 4. Click `Esc` to quit and Press `R` to retry after a game over.
 
+## The UMI Diagram
+
 ## Self Assesment
 
 The group evaluated the system using the provided grading rubric, which resulted in the following:
@@ -59,7 +61,12 @@ The group evaluated the system using the provided grading rubric, which resulted
 | Overall Impression 	| ✔   	|   	|   	|   	|
 
 
+## Video Presentation
+
 ## 🧾 Contributors
+
+**IT2102
+
 | Names            	   | Link	                                                |
 |--------------------------| ---------------------------------------------------------- |
 | Abrahan, John Neldine M. |  [@John-Neldine](https://github.com/21-02497)              |

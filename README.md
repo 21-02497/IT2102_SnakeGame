@@ -36,7 +36,7 @@ def restart(event):
 
 
 
-## Rules
+## 🎲 Rules
 1. Snake has to move either forward, left or right.
 2. Snake dies when it hits a wall or itself.
 3. For every eaten fruit, snake's length and player's score increases by 1 and a new fruit is generated on a random unoccupied place.
@@ -48,18 +48,18 @@ def restart(event):
 4. Click `Esc` to quit and Press `R` to retry after a game over.
 
 
-## UML Diagram
+## 🏁 UML Diagram
 ![Windows](https://user-images.githubusercontent.com/113603567/206922338-c43e3aec-ed6a-4694-9160-78ceb79fcad8.jpg)
 
 
-## Concepts Used
+## 📐 Concepts Used
 
 * Encapsulation - the concept of bundling data and methods within a single unit, by creating classes we implemented encapsulation
 * Inheritance - allows us to define a class that inherits all the methods and properties from another class. by calling and using different function we implemented      	         inheritance
 
 
 
-## Self Assesment
+## 📝 Self Assesment
 
 The group evaluated the system using the provided grading rubric, which resulted in the following:
 

@@ -56,6 +56,7 @@ def restart(event):
 
 * Encapsulation - the concept of bundling data and methods within a single unit, by creating classes we implemented encapsulation
 * Inheritance - allows us to define a class that inherits all the methods and properties from another class. by calling and using different function we implemented      	         inheritance
+* Abstraction - we have constant variables whose values we do not want to change. 
 
 
 

@@ -50,8 +50,8 @@ def restart(event):
 
 ## 🏁 UML Diagram
 
-![Windows (2)](https://user-images.githubusercontent.com/113603567/206999533-313421a6-e0d5-4c7a-a0ee-8e97084a56f2.jpg)
 
+![3-removebg-preview](https://user-images.githubusercontent.com/113603567/207001294-93f9cbe8-3a7e-438a-ae6d-28a766469666.png)
 
 
 ## 📐 Concepts Used

@@ -1,5 +1,4 @@
 from tkinter import Label, ALL, Tk, Canvas
-import random
 import sys
 import os
 

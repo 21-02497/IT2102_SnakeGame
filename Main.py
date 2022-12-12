@@ -1,4 +1,4 @@
-from tkinter import Label, ALL, Tk, Canvas
+from tkinter import Label, ALL, 
 import sys
 import os
 

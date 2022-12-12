@@ -26,7 +26,7 @@ a random location.
 
 **Running**
 
-Specify the file path for the .py file in this line:
+Specify the file path for the main.py file in this line:
 
 ```python
 def restart(event):

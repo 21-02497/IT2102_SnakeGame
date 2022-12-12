@@ -103,7 +103,6 @@ def restart(event):
     Util.window.destroy()
     os.startfile(r'C:\Users\Acer\Desktop\2nd-year\Docus\python files\final_proj new\Snake.py')
 
-
 Util.window.title("Snake game")
 Util.window.resizable(False, False)
 
@@ -112,8 +111,6 @@ direction = 'down'
 
 label = Label(Util.window, text="Score:{}".format(score), font=('consolas', 40))
 label.pack()
-
-
 
 Util.canvas.pack()
 
